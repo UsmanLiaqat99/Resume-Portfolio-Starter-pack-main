@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Usman Liaqat",
+    "occupation": "CEO of <LOADING/>",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Usman! You might also know me as PAPA React. I've been coding for over 2 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "usmanliaqatweb@gmail.com",
+    "phone": "+92 3126537041",
+    "address": {
+      "street": "street",
+      "city": "Multan",
+      "state": "Punjab",
+      "zip": "60000"
+    },
+    "website": "https://usmanliaqat-portofolio.web.app",
+    "resumedownload": "https://usmanliaqat-portofolio.web.app",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://usmanliaqat-portofolio.web.app/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/usmanliaqat444",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/usman-liaqat",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/usman_liaqat_444/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://www.instagram.com/usman_liaqat_444/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "MNS UET Multan",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Soon",
+        "description": "Soon"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sparkosol",
+        "title": "Full stack developer",
+        "years": "May 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "VueJs",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "_title": "Snapchat Clone (React JS)",
+        "_category": "",
+        "_image": "snapchat.jpg",
+        "_url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "_title": "Gmail Clone (React JS)",
+        "_category": "",
+        "_image": "gmail.jpg",
+        "_url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "_title": "LinkedIn Clone (React JS)",
+        "_category": "",
+        "_image": "linkedin.jpg",
+        "_url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Usman is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Usman has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
